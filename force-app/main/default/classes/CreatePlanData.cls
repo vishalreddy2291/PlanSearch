@@ -118,6 +118,8 @@ public class CreatePlanData {
             cs.to__c=integer.valueOf(csMap.get('to'));
             csInsertList.add(cs);
         }
+
+        system.debug('--csInsertList--'+csInsertList[0]);
         
         try{
             Database.insert(csInsertList,false);
