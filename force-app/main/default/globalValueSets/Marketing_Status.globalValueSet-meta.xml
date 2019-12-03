@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Marketed</fullName>
+        <default>false</default>
+        <label>Marketed</label>
+    </customValue>
+    <customValue>
+        <fullName>Not Marketed</fullName>
+        <default>false</default>
+        <label>Not Marketed</label>
+    </customValue>
+    <customValue>
+        <fullName>Not Marketed /Configured</fullName>
+        <default>false</default>
+        <label>Not Marketed /Configured</label>
+    </customValue>
+    <customValue>
+        <fullName>Renewing Only</fullName>
+        <default>false</default>
+        <label>Renewing Only</label>
+    </customValue>
+    <masterLabel>Marketing Status</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

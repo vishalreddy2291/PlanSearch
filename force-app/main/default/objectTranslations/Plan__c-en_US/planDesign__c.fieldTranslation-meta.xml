@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Plan Design --></label>
+    <name>planDesign__c</name>
+    <picklistValues>
+        <masterLabel>1-2-3</masterLabel>
+        <translation><!-- 1-2-3 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Coinsurance</masterLabel>
+        <translation><!-- Coinsurance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Complete</masterLabel>
+        <translation><!-- Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Copay</masterLabel>
+        <translation><!-- Copay --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Copay After Deductible</masterLabel>
+        <translation><!-- Copay After Deductible --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Copayment After Prescription Drug Deductible</masterLabel>
+        <translation><!-- Copayment After Prescription Drug Deductible --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DNC</masterLabel>
+        <translation><!-- DNC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Enhanced</masterLabel>
+        <translation><!-- Enhanced --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exam Only</masterLabel>
+        <translation><!-- Exam Only --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exam Plus</masterLabel>
+        <translation><!-- Exam Plus --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hybrid</masterLabel>
+        <translation><!-- Hybrid --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Integrated</masterLabel>
+        <translation><!-- Integrated --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lens and Frame Only</masterLabel>
+        <translation><!-- Lens and Frame Only --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rollover</masterLabel>
+        <translation><!-- Rollover --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tiered</masterLabel>
+        <translation><!-- Tiered --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Traditional</masterLabel>
+        <translation><!-- Traditional --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>true</isNavPersonalizationDisabled>
+    <label>HighRoads</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>AccountGroup__c</tabs>
+    <tabs>Plan__c</tabs>
+    <tabs>Product__c</tabs>
+    <tabs>Service__c</tabs>
+    <tabs>Cost_Share__c</tabs>
+    <tabs>Group__c</tabs>
+    <tabs>Plan_Search</tabs>
+    <tabs>Proposal__c</tabs>
+    <tabs>Option__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>HighRoads_UtilityBar</utilityBar>
+</CustomApplication>

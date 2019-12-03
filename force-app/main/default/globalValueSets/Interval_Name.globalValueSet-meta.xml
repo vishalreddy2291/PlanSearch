@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Admission</fullName>
+        <default>false</default>
+        <label>Admission</label>
+    </customValue>
+    <customValue>
+        <fullName>Benefit Period</fullName>
+        <default>false</default>
+        <label>Benefit Period</label>
+    </customValue>
+    <customValue>
+        <fullName>Day</fullName>
+        <default>false</default>
+        <label>Day</label>
+    </customValue>
+    <customValue>
+        <fullName>Episode</fullName>
+        <default>false</default>
+        <label>Episode</label>
+    </customValue>
+    <customValue>
+        <fullName>Hour</fullName>
+        <default>false</default>
+        <label>Hour</label>
+    </customValue>
+    <customValue>
+        <fullName>Lifetime</fullName>
+        <default>false</default>
+        <label>Lifetime</label>
+    </customValue>
+    <customValue>
+        <fullName>Month</fullName>
+        <default>false</default>
+        <label>Month</label>
+    </customValue>
+    <customValue>
+        <fullName>No Limit</fullName>
+        <default>false</default>
+        <label>No Limit</label>
+    </customValue>
+    <customValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <customValue>
+        <fullName>Transplant</fullName>
+        <default>false</default>
+        <label>Transplant</label>
+    </customValue>
+    <customValue>
+        <fullName>Week</fullName>
+        <default>false</default>
+        <label>Week</label>
+    </customValue>
+    <customValue>
+        <fullName>Year</fullName>
+        <default>false</default>
+        <label>Year</label>
+    </customValue>
+    <masterLabel>Interval Name</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

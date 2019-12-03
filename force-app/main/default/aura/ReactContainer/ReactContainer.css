@@ -1,0 +1,11 @@
+.THIS {
+    border-radius: .3125rem;
+    background: none transparent;
+}
+
+.THIS .from-react {
+    background-color: black;
+    padding: 30px;
+    margin: 20px;
+    color: palegreen;
+}

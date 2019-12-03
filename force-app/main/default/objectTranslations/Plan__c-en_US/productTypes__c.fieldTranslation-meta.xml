@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Product Type --></label>
+    <name>productTypes__c</name>
+    <picklistValues>
+        <masterLabel>Catastrophic</masterLabel>
+        <translation><!-- Catastrophic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>EPO</masterLabel>
+        <translation><!-- EPO --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>HMO</masterLabel>
+        <translation><!-- HMO --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Indemnity</masterLabel>
+        <translation><!-- Indemnity --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>POS</masterLabel>
+        <translation><!-- POS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PPO</masterLabel>
+        <translation><!-- PPO --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

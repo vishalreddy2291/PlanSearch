@@ -1,0 +1,5 @@
+{
+      "landing-pages": [
+        { "path": "index.html", "apex-controller": "PlanController" }
+      ]
+    }

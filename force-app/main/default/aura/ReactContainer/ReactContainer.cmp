@@ -1,0 +1,15 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:appHostable" access="global" >
+    
+   
+        <lightning:container
+                             aura:id="jsApp"
+                             src="{!$Resource.reactComponent + '/index.html'}"
+                             onmessage="{!c.handleMessage}"
+                             onerror="{!c.handleError}"
+                             />
+    
+    
+    
+    
+    
+</aura:component>

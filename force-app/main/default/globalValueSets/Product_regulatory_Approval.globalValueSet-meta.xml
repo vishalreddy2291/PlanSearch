@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Active</fullName>
+        <default>false</default>
+        <label>Active</label>
+    </customValue>
+    <customValue>
+        <fullName>Approved</fullName>
+        <default>false</default>
+        <label>Approved</label>
+    </customValue>
+    <customValue>
+        <fullName>Denied</fullName>
+        <default>false</default>
+        <label>Denied</label>
+    </customValue>
+    <customValue>
+        <fullName>Draft</fullName>
+        <default>false</default>
+        <label>Draft</label>
+    </customValue>
+    <customValue>
+        <fullName>Draft-ready for Actuarial</fullName>
+        <default>false</default>
+        <label>Draft-ready for Actuarial</label>
+    </customValue>
+    <customValue>
+        <fullName>Filed</fullName>
+        <default>false</default>
+        <label>Filed</label>
+    </customValue>
+    <customValue>
+        <fullName>Inactive</fullName>
+        <default>false</default>
+        <label>Inactive</label>
+    </customValue>
+    <customValue>
+        <fullName>Pending</fullName>
+        <default>false</default>
+        <label>Pending</label>
+    </customValue>
+    <customValue>
+        <fullName>Pending Filing</fullName>
+        <default>false</default>
+        <label>Pending Filing</label>
+    </customValue>
+    <customValue>
+        <fullName>Test ready</fullName>
+        <default>false</default>
+        <label>Test ready</label>
+    </customValue>
+    <masterLabel>Product regulatory Approval</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <fullName>planDesign__c</fullName>
+    <externalId>false</externalId>
+    <label>Plan Design</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1-2-3</fullName>
+                <default>false</default>
+                <label>1-2-3</label>
+            </value>
+            <value>
+                <fullName>Coinsurance</fullName>
+                <default>false</default>
+                <label>Coinsurance</label>
+            </value>
+            <value>
+                <fullName>Complete</fullName>
+                <default>false</default>
+                <label>Complete</label>
+            </value>
+            <value>
+                <fullName>Copay</fullName>
+                <default>false</default>
+                <label>Copay</label>
+            </value>
+            <value>
+                <fullName>Copay After Deductible</fullName>
+                <default>false</default>
+                <label>Copay After Deductible</label>
+            </value>
+            <value>
+                <fullName>Copayment After Prescription Drug Deductible</fullName>
+                <default>false</default>
+                <label>Copayment After Prescription Drug Deductible</label>
+            </value>
+            <value>
+                <fullName>DNC</fullName>
+                <default>false</default>
+                <label>DNC</label>
+            </value>
+            <value>
+                <fullName>Enhanced</fullName>
+                <default>false</default>
+                <label>Enhanced</label>
+            </value>
+            <value>
+                <fullName>Exam Only</fullName>
+                <default>false</default>
+                <label>Exam Only</label>
+            </value>
+            <value>
+                <fullName>Exam Plus</fullName>
+                <default>false</default>
+                <label>Exam Plus</label>
+            </value>
+            <value>
+                <fullName>Hybrid</fullName>
+                <default>false</default>
+                <label>Hybrid</label>
+            </value>
+            <value>
+                <fullName>Integrated</fullName>
+                <default>false</default>
+                <label>Integrated</label>
+            </value>
+            <value>
+                <fullName>Lens and Frame Only</fullName>
+                <default>false</default>
+                <label>Lens and Frame Only</label>
+            </value>
+            <value>
+                <fullName>Rollover</fullName>
+                <default>false</default>
+                <label>Rollover</label>
+            </value>
+            <value>
+                <fullName>Tiered</fullName>
+                <default>false</default>
+                <label>Tiered</label>
+            </value>
+            <value>
+                <fullName>Traditional</fullName>
+                <default>false</default>
+                <label>Traditional</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

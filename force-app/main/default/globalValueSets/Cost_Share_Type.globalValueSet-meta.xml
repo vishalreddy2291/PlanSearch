@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Allowance</fullName>
+        <default>false</default>
+        <label>Allowance</label>
+    </customValue>
+    <customValue>
+        <fullName>Annual Maximum</fullName>
+        <default>false</default>
+        <label>Annual Maximum</label>
+    </customValue>
+    <customValue>
+        <fullName>Carryover Account Maximum</fullName>
+        <default>false</default>
+        <label>Carryover Account Maximum</label>
+    </customValue>
+    <customValue>
+        <fullName>Carryover Limit</fullName>
+        <default>false</default>
+        <label>Carryover Limit</label>
+    </customValue>
+    <customValue>
+        <fullName>Co-insurance</fullName>
+        <default>false</default>
+        <label>Co-insurance</label>
+    </customValue>
+    <customValue>
+        <fullName>Copay</fullName>
+        <default>false</default>
+        <label>Copay</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible</fullName>
+        <default>false</default>
+        <label>Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible C Family Deductible</fullName>
+        <default>false</default>
+        <label>Deductible C Family Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible C Individual + 1 (Spouse) Deductible</fullName>
+        <default>false</default>
+        <label>Deductible C Individual + 1 (Spouse) Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible C Individual + Dependents Deductible</fullName>
+        <default>false</default>
+        <label>Deductible C Individual + Dependents Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible C Individual Deductible</fullName>
+        <default>false</default>
+        <label>Deductible C Individual Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible D Family Deductible</fullName>
+        <default>false</default>
+        <label>Deductible D Family Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible D Individual + 1 (Spouse) Deductible</fullName>
+        <default>false</default>
+        <label>Deductible D Individual + 1 (Spouse) Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible D Individual + Dependents Deductible</fullName>
+        <default>false</default>
+        <label>Deductible D Individual + Dependents Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Deductible D Individual Deductible</fullName>
+        <default>false</default>
+        <label>Deductible D Individual Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Family Deductible</fullName>
+        <default>false</default>
+        <label>Dental Family Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Family Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Family Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Family Member Deductible</fullName>
+        <default>false</default>
+        <label>Dental Family Member Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Family Member Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Family Member Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Family Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Family Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual + 1 (Spouse) Deductible</fullName>
+        <default>false</default>
+        <label>Dental Individual + 1 (Spouse) Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual + 1 (Spouse) Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Individual + 1 (Spouse) Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual + 1 (Spouse) Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Individual + 1 (Spouse) Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual + Dependents Deductible</fullName>
+        <default>false</default>
+        <label>Dental Individual + Dependents Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual + Dependents Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Individual + Dependents Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual + Dependents Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Individual + Dependents Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual Deductible</fullName>
+        <default>false</default>
+        <label>Dental Individual Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Individual Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Individual Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Dental Individual Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Dollar Limit</fullName>
+        <default>false</default>
+        <label>Dollar Limit</label>
+    </customValue>
+    <customValue>
+        <fullName>Family Deductible</fullName>
+        <default>false</default>
+        <label>Family Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Family Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Family Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Family Secondary MOOP</fullName>
+        <default>false</default>
+        <label>Family Secondary MOOP</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual + 1 (Spouse) Deductible</fullName>
+        <default>false</default>
+        <label>Individual + 1 (Spouse) Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual + 1 (Spouse) MOOP</fullName>
+        <default>false</default>
+        <label>Individual + 1 (Spouse) MOOP</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual + 1 (Spouse) Secondary MOOP</fullName>
+        <default>false</default>
+        <label>Individual + 1 (Spouse) Secondary MOOP</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual + Dependents Deductible</fullName>
+        <default>false</default>
+        <label>Individual + Dependents Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual + Dependents MOOP</fullName>
+        <default>false</default>
+        <label>Individual + Dependents MOOP</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual + Dependents Secondary MOOP</fullName>
+        <default>false</default>
+        <label>Individual + Dependents Secondary MOOP</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual Deductible</fullName>
+        <default>false</default>
+        <label>Individual Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual MOOP</fullName>
+        <default>false</default>
+        <label>Individual MOOP</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Individual Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Individual Secondary MOOP</fullName>
+        <default>false</default>
+        <label>Individual Secondary MOOP</label>
+    </customValue>
+    <customValue>
+        <fullName>Limit Amount</fullName>
+        <default>false</default>
+        <label>Limit Amount</label>
+    </customValue>
+    <customValue>
+        <fullName>Limits and Exceptions</fullName>
+        <default>false</default>
+        <label>Limits and Exceptions</label>
+    </customValue>
+    <customValue>
+        <fullName>Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Family Deductible</fullName>
+        <default>false</default>
+        <label>Medical Family Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Family Deductible Credit Amount</fullName>
+        <default>false</default>
+        <label>Medical Family Deductible Credit Amount</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Family Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Family Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Family Max. Out of Pocket Credit Amount</fullName>
+        <default>false</default>
+        <label>Medical Family Max. Out of Pocket Credit Amount</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Family Member Deductible</fullName>
+        <default>false</default>
+        <label>Medical Family Member Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Family Member Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Family Member Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Family Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Family Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual + 1 (Spouse) Deductible</fullName>
+        <default>false</default>
+        <label>Medical Individual + 1 (Spouse) Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual + 1 (Spouse) Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Individual + 1 (Spouse) Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual + 1 (Spouse) Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Individual + 1 (Spouse) Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual + Dependents Deductible</fullName>
+        <default>false</default>
+        <label>Medical Individual + Dependents Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual + Dependents Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Individual + Dependents Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual + Dependents Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Individual + Dependents Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual Deductible</fullName>
+        <default>false</default>
+        <label>Medical Individual Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual Deductible Credit Amount</fullName>
+        <default>false</default>
+        <label>Medical Individual Deductible Credit Amount</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Individual Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual Max. Out of Pocket Credit Amount</fullName>
+        <default>false</default>
+        <label>Medical Individual Max. Out of Pocket Credit Amount</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Individual Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Medical Individual Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Family Deductible</fullName>
+        <default>false</default>
+        <label>Pharmacy Family Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Family Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Family Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Family Member Deductible</fullName>
+        <default>false</default>
+        <label>Pharmacy Family Member Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Family Member Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Family Member Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Family Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Family Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual + 1 (Spouse) Deductible</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual + 1 (Spouse) Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual + 1 (Spouse) Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual + 1 (Spouse) Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual + 1 (Spouse) Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual + 1 (Spouse) Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual + Dependents Deductible</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual + Dependents Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual + Dependents Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual + Dependents Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual + Dependents Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual + Dependents Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual Deductible</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharmacy Individual Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Pharmacy Individual Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Reimbursement $</fullName>
+        <default>false</default>
+        <label>Reimbursement $</label>
+    </customValue>
+    <customValue>
+        <fullName>Reimbursement %</fullName>
+        <default>false</default>
+        <label>Reimbursement %</label>
+    </customValue>
+    <customValue>
+        <fullName>Threshold Limit</fullName>
+        <default>false</default>
+        <label>Threshold Limit</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Family Deductible</fullName>
+        <default>false</default>
+        <label>Vision Family Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Family Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Family Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Family Member Deductible</fullName>
+        <default>false</default>
+        <label>Vision Family Member Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Family Member Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Family Member Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Family Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Family Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual + 1 (Spouse) Deductible</fullName>
+        <default>false</default>
+        <label>Vision Individual + 1 (Spouse) Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual + 1 (Spouse) Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Individual + 1 (Spouse) Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual + 1 (Spouse) Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Individual + 1 (Spouse) Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual + Dependents Deductible</fullName>
+        <default>false</default>
+        <label>Vision Individual + Dependents Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual + Dependents Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Individual + Dependents Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual + Dependents Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Individual + Dependents Secondary Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual Deductible</fullName>
+        <default>false</default>
+        <label>Vision Individual Deductible</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Individual Max. Out of Pocket</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Individual Secondary Max. Out of Pocket</fullName>
+        <default>false</default>
+        <label>Vision Individual Secondary Max. Out of Pocket</label>
+    </customValue>
+    <masterLabel>Cost Share Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

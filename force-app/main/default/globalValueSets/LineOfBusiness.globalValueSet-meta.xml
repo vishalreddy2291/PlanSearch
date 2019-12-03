@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Commercial</fullName>
+        <default>false</default>
+        <label>Commercial</label>
+    </customValue>
+    <customValue>
+        <fullName>Medicaid</fullName>
+        <default>false</default>
+        <label>Medicaid</label>
+    </customValue>
+    <customValue>
+        <fullName>Medicare</fullName>
+        <default>false</default>
+        <label>Medicare</label>
+    </customValue>
+    <customValue>
+        <fullName>Medicare Advantage</fullName>
+        <default>false</default>
+        <label>Medicare Advantage</label>
+    </customValue>
+    <customValue>
+        <fullName>QHP</fullName>
+        <default>false</default>
+        <label>QHP</label>
+    </customValue>
+    <masterLabel>Line of Business</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

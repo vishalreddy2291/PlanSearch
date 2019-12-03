@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Catastrophic</fullName>
+        <default>false</default>
+        <label>Catastrophic</label>
+    </customValue>
+    <customValue>
+        <fullName>EPO</fullName>
+        <default>false</default>
+        <label>EPO</label>
+    </customValue>
+    <customValue>
+        <fullName>HMO</fullName>
+        <default>false</default>
+        <label>HMO</label>
+    </customValue>
+    <customValue>
+        <fullName>Indemnity</fullName>
+        <default>false</default>
+        <label>Indemnity</label>
+    </customValue>
+    <customValue>
+        <fullName>POS</fullName>
+        <default>false</default>
+        <label>POS</label>
+    </customValue>
+    <customValue>
+        <fullName>PPO</fullName>
+        <default>false</default>
+        <label>PPO</label>
+    </customValue>
+    <masterLabel>Product Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

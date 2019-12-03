@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>MA Min Creditable Coverage</fullName>
+        <default>false</default>
+        <label>MA Min Creditable Coverage</label>
+    </customValue>
+    <customValue>
+        <fullName>Medicare Part B Medical</fullName>
+        <default>false</default>
+        <label>Medicare Part B Medical</label>
+    </customValue>
+    <customValue>
+        <fullName>Medicare Part D Rx</fullName>
+        <default>false</default>
+        <label>Medicare Part D Rx</label>
+    </customValue>
+    <masterLabel>Creditable Coverage</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "static/css/main.1588848c.css",
+    "main.js": "static/js/main.202b399e.js",
+    "index.html": "index.html",
+    "precache-manifest.2a683d517c3dc16920f598d25564db56.js": "precache-manifest.2a683d517c3dc16920f598d25564db56.js",
+    "service-worker.js": "service-worker.js",
+    "static/media/dental.19131f97.svg": "static/media/dental.19131f97.svg",
+    "static/media/medical.976121ad.svg": "static/media/medical.976121ad.svg",
+    "static/media/pharmacy.db506457.svg": "static/media/pharmacy.db506457.svg",
+    "static/media/vision.b25a076a.svg": "static/media/vision.b25a076a.svg"
+  }
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>In Network</fullName>
+        <default>false</default>
+        <label>In Network</label>
+    </customValue>
+    <customValue>
+        <fullName>Out of Network</fullName>
+        <default>false</default>
+        <label>Out of Network</label>
+    </customValue>
+    <customValue>
+        <fullName>Out of Area</fullName>
+        <default>false</default>
+        <label>Out of Area</label>
+    </customValue>
+    <customValue>
+        <fullName>Out of Country</fullName>
+        <default>false</default>
+        <label>Out of Country</label>
+    </customValue>
+    <customValue>
+        <fullName>Coverage</fullName>
+        <default>false</default>
+        <label>Coverage</label>
+    </customValue>
+    <customValue>
+        <fullName>Preferred Network 1</fullName>
+        <default>false</default>
+        <label>Preferred Network 1</label>
+    </customValue>
+    <customValue>
+        <fullName>Preferred Network 2</fullName>
+        <default>false</default>
+        <label>Preferred Network 2</label>
+    </customValue>
+    <customValue>
+        <fullName>Preferred Network 3</fullName>
+        <default>false</default>
+        <label>Preferred Network 3</label>
+    </customValue>
+    <masterLabel>Provider Tier</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
